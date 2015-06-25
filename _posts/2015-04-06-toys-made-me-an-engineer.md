@@ -1,14 +1,16 @@
 ---
 layout:     post
 title:      "Toys (and Patient Parents) Made Me an Engineer"
-subtitle:   "How to get your girls to like science and tech"
-date:       2014-06-04 12:00:00
+subtitle:   "How to get your girls to love science and tech from the get-go"
+date:       2015-04-06 12:00:00
 author:     "Rachel Berry"
 header-img: "img/toys.jpeg"
 ---
 
 #### “How’d you get into that?”
+
 #### “What made you decide to pick that major?”
+
 #### “Really? You’re an engineer? You don’t *look* like an engineer.”
 
 Just a few of the various responses I get when I respond to the question, “So what do you do?” The last one is my favorite, of course.
