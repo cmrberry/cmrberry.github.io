@@ -1,13 +1,12 @@
 # Site settings
-title: Clean Blog
+title: Rachel Berry
 header-img: img/home-bg.jpg
 email: your-email@yourdomain.com
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: ""
 url: "http://rachelberry.me"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+twitter_username: cmrberry
+github_username:  cmrberry
 
 # Build settings
 markdown: kramdown
