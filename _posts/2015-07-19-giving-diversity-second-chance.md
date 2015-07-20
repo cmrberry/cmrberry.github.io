@@ -4,7 +4,7 @@ title:      "Giving Diversity a Second Chance"
 subtitle:   "How do we increase diversity in tech if we never give companies another shot?"
 date:       2015-07-19 12:00:00
 author:     "Rachel Berry"
-header-img: "img/toys.jpeg"
+header-img: "img/sunrise.jpg"
 ---
 
 You don't need to search very hard to find [article](http://www.theguardian.com/technology/2015/jun/25/facebook-diversity-report-black-white-women-employees) after [article](http://www.washingtonpost.com/business/economy/silicon-valley-struggles-to-hack-its-diversity-problem/2015/07/16/0b0144be-2053-11e5-84d5-eb37ee8eaa61_story.html) [condemning](http://bits.blogs.nytimes.com/2015/06/28/new-diversity-reports-show-the-same-old-results/) the [lack of diversity](http://mashable.com/2015/06/08/tim-cook-apple-diversity-women-future/) in tech.
