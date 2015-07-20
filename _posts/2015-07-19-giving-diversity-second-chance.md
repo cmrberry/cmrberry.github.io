@@ -55,7 +55,7 @@ I also heard through the diversity-in-tech grapevine that GitHub had been workin
 
 In other words, GitHub is serious about change.
 
-Yet despite all of that, the only reason I found out about these is because I went looking. These are the things we don't read about on TechCrunch. And if you don't know to look for them, you'd never know about the work that companies like GitHub are putting in to change for the better.
+Yet despite all of that, the only reason I found out about these things is because I went looking. We don't read about this on TechCrunch. And if you don't know to look for it, you'd never know about the work that companies like GitHub are putting in to changing for the better.
 
 ## Second Chances
 
