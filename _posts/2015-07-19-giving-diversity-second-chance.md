@@ -63,7 +63,7 @@ It dawned on me as I was researching whether or not I should apply for the job a
 
 So what was my answer? My answer was a question:
 
-> *How can companies fix their diversity and inclusion if no one ever gives them the chance?*
+### *How can companies fix their diversity and inclusion if no one ever gives them the chance?*
 
 So I applied. And I interviewed via webchat. And when that went well, I showed up for my onsite interviews and [didn't shake hands](http://www.chabad.org/library/article_cdo/aid/1051760/jewish/May-I-Shake-the-Ladys-Hand.htm) because of my religious customs, and needed special meal accommodations because I keep [kosher](http://www.chabad.org/library/article_cdo/aid/142441/jewish/Spiritual-Fitness.htm). And you know what? Not only was it *not* awkward, but it was welcomed and respected by everyone I met that day. Not to mention that half of the people I interviewed with were women, all of whom mentioned over-and-over-again the company's thoughtful and deliberate progress.
 
@@ -71,4 +71,4 @@ When I first applied, I was still nervous about whether or not GitHub would be a
 
 So read the news about diversity in tech. But also read between the lines. And remember that for companies to increase those ever-taunting numbers, someone has to be willing to give them a second chance. And giving that second chance could end up being just the thing you were looking for all along.
 
-*Note: While I'm employed by GitHub, all views and opinions are my own. If you have questions or feedback, feel free to find me on [Twitter](http://www.twitter.com/cmrberry)*
+*Note: While I'm employed by GitHub, all views and opinions are my own. If you have questions or feedback, feel free to find me on [Twitter](http://www.twitter.com/cmrberry).*
