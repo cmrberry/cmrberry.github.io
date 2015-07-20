@@ -16,7 +16,9 @@ description: "GitHub Supportocat | Diversity-in-Tech Advocate | Mom Who Codes"
     </a>
     <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
+{% if paginator.posts > 1 %}
 <hr>
+{% endif %}
 {% endfor %}
 
 <!-- Pager -->
