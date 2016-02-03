@@ -1,8 +1,7 @@
 # Site settings
 title: Rachel Berry
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "Rachel Berry"
 baseurl: ""
 url: "http://rachelberry.me"
 twitter_username: cmrberry
