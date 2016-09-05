@@ -1,13 +1,50 @@
-# Site settings
-title: Rachel Berry
-header-img: img/home-bg.jpg
-description: "Rachel Berry"
-baseurl: ""
-url: "http://cmrberry.com"
-twitter_username: cmrberry
-github_username:  cmrberry
-
 # Build settings
-permalink: pretty
-paginate: 5
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+permalink   : /blog/:year/:title/
+markdown    : kramdown
+highlighter : pygments
+gems: [jekyll-paginate]
+
+paginate: 3
+paginate_path: "/blog/page/:num/"
+comments: true
+
+sass:
+  sass_dir: _scss
+  style: compressed # expanded
+
+# SEO settings
+title: Rachel Berry
+description: "A free Jekyll theme for download"
+keywords: "Jekyll, theme, free, download, SEO, blog, web"
+url: http://cmrberry.com
+baseurl: ""
+
+# google_analytics: UA-52446115-1
+repo: http://github.com/cmrberry/cmrberry.github.io
+disqus_shortname: "nandothemes"
+disqus_site_shortname: "nandothemes"
+
+# Author settings
+author:
+  name      : Rachel Berry
+  job       : Analytics Engineer at GitHub
+  bio       : "Perpetual student of all things tech. Driven by data and copious amounts of coffee. Proud wife, mom, and Jew."
+  thumb     : /images/author.jpg
+  email     : cmrberry@gmail.com
+  url       : http://cmrberry.com
+  github    : http://github.com/cmrberry
+  twitter   : http://twitter.com/cmrberry
+  linkedin  : http://linkedin.com/in/cmrberry
+
+# navbar pages
+navbar:
+  - slug: about
+    title: About
+  # - slug: resume
+  #   title: Resume
+  # - slug: skills
+  #   title: Skills
+  - slug: blog
+    title: Blog
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]

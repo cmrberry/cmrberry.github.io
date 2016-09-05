@@ -7,8 +7,6 @@ author:     "Rachel Berry"
 header-img: "img/sunrise.jpg"
 ---
 
-*Note: This piece has been edited. I was really insensitive towards someone and they rightfully called me out on it. I’m so sorry.*
-
 You don’t need to search very hard to find article after article condemning the lack of diversity in tech.
 
 I know, because I’ve written about it, too. For six months, I ran a job board focused on connecting under-represented talent with tech companies that truly care about creating an inclusive workplace. In Modiv’s brief lifespan, I had the pleasure of working with some of the most inspiring startups and founders in the industry. They were clear and obvious choices for diverse talent to want to work at.
