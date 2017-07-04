@@ -23,3 +23,19 @@ In this revitalized world of Support, it's not about satisfaction, it's about Su
 
 With that preface, it becomes more reasonable why someone like me could actually *miss* working in a support role at a company that cares about Super Fans. I miss genuinely helping people. I miss connecting first-hand with the ones we're building for. I miss working on a team of some of the most passionate, empathetic, and caring people I've ever met.
 
+#### Not a "step backwards"
+
+Despite everything I just spelled out, I've still had more than a few reactions from both coworkers and friends along the lines of, "Oh, engineering was too hard?" or "Was that move your choice?"... to which I emphatically answer "no" and "yes", respectively.
+
+Part of this is because not everyone understands the important and challenging nature of support that I mentioned before. Another part of this is because there are a fair amount of people that only view support at a tech company as a "foot in the door" to an engineering position. And while I did end up moving from Support to Engineering, my intention was never to actually leave Support.
+
+I originally moved from our technical support team to an analytics engineering position on another team that was within the Support Org called "Support Tools Engineering". My intention in moving to that role was two-fold:
+
+- It was a great career move and pay raise at a time that my family really needed it.
+- I have a unique background in data from my industrial/manufacturing engineering days that was especially suited for a support analytics engineering role.
+<br>&nbsp;<br>
+
+I was excited about being able to provide insights to the rest of the support team that could help everyone be more effective and increase the already awesome reputation of the org. However for a multitude of reasons, the original team that I joined went through a lot of different transformations. The team moved out of the Support Org to the Engineering Org, and then folded and combined with a newly formed (and much broader) Internal Tools Engineering team. While my short-term focus remained on support data and analytics, the long-term goals shifted drastically to include stakeholders from across the company on a variety of different teams. That's not a bad thing, it just wasn't what I had expected when I left front-line support a year ago.
+
+The team built out really well in the end, and they're continuing to do pretty great work for a huge cross-section of the company. I'm glad that I gave it a try, and it was amazing to be on the ground floor of the formation of a new team and see how that's done. Everyone on the team was great to work with both professionally and personally. I learned a ton every day, and pushed myself further in my career than I've ever had to do in such a short amount of time. Overall it was a great experience that I'm really thankful for, but the truth is that there were aspects of engineering that I just didn't enjoy.
+
