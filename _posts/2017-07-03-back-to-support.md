@@ -39,3 +39,20 @@ I was excited about being able to provide insights to the rest of the support te
 
 The team built out really well in the end, and they're continuing to do pretty great work for a huge cross-section of the company. I'm glad that I gave it a try, and it was amazing to be on the ground floor of the formation of a new team and see how that's done. Everyone on the team was great to work with both professionally and personally. I learned a ton every day, and pushed myself further in my career than I've ever had to do in such a short amount of time. Overall it was a great experience that I'm really thankful for, but the truth is that there were aspects of engineering that I just didn't enjoy.
 
+#### Apples and oranges
+
+Engineering work is intense and almost competitive in nature. It takes incredible focus for long periods of time. If you're curious about what I mean, tap someone on the should while they're neck-deep in code and see what their reaction is and how long they have to stare at the screen to figure out what they were thinking before you interrupted. (Don't actually do that, it's terribly mean.) There were times that I got so caught up in finishing something I was working on that I was late to pick up my son from school. There were other times that I stopped what I was doing to pick him up, and then ran home to finish, shushing him away when he interrupted my train of thought.
+
+That's not who I naturally am, and it's not who I want to be. I don't think everyone operates the same way; I'm 100% confident that there are engineers that can juggle that intense focus with other life responsibilities, but because of my personality and the way my brain works, that's just what happened when I was fully focused on one piece of code. I got to be really good at engineering, but the prolonged periods of intensity it required made me lose sight of other important things in my life.
+
+On the other hand, the work of support is completely different: incredibly demanding of empathy, to the point of putting yourself in someone else's shoes to see eye-to-eye; full of constant context switching; fast-paced; at times totally repetitive and at other times completely full of never-before-seen challenges. In other words, it's exactly like parenting two kids under the age of three. 😅
+
+While that type of work would be incredibly draining for someone with a brain built for long periods of intense focus, it comes naturally to me, and to many others in the support field. To sum up...
+
+##### Support isn't less challenging than engineering. It's a different kind of challenge.
+
+There are great engineers that would make terrible support folks. There are great support people (even technical ones) that wouldn't be good engineers. There are people that can be good at either, but will feel drained after one of them and recharged after the other. That's me in the middle. So while I could have stayed in engineering and done just fine, I feel that where I can contribute the most to the company and to my personal fulfillment is back on the front-line.
+
+##### I was good at engineering, but I have a "Support Heart".
+
+It took a lot of introspection while on leave to come to terms with the fact that being good at engineering wasn't reason enough to do it the rest of my life, despite the fact that the general tech ecosystem would disagree with me. I love the work of Support, and I love the person that I am when my day is filled with helping other people. It makes me the best version of myself both on and off the clock. And to me, that's far more important than anyone else's ideas of what my career path was supposed to look like.
