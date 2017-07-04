@@ -15,3 +15,11 @@ The last two months I've been slowly ramping back up: checking in on Slack every
 
 The main result of all of that time to think has been the decision to leave my engineering role. When I start working again two weeks from today, I'll be coming back from maternity leave straight to the support team I left a year ago. And I'm *so* excited.
 
+#### Excited? About Support?? Really???
+
+In order for any of this to make sense, I first want to clarify what I mean when I say "support". Some of you know of or have interacted with GitHub Support, so this will be more familiar to you, but just in case... Support at GitHub is *not* "Is your computer plugged in?" Nor is it a minimum wage call center. Support at GitHub is part of a community of professionals revolutionizing the industry and changing what people think of when they hear the words "customer support".
+
+In this revitalized world of Support, it's not about satisfaction, it's about Super Fans. It's about connecting with the people that use our products and treating them like human beings instead of customer #4872. It's emotionally charged work, requiring patience, empathy, and stellar communication skills. It's about recognizing that support has a huge impact on the bottom line of the business, both in acquisition and retention. It's a challenging job, and companies that recognize its importance (like GitHub does) compensate accordingly.
+
+With that preface, it becomes more reasonable why someone like me could actually *miss* working in a support role at a company that cares about Super Fans. I miss genuinely helping people. I miss connecting first-hand with the ones we're building for. I miss working on a team of some of the most passionate, empathetic, and caring people I've ever met.
+
